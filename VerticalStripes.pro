@@ -1,4 +1,3 @@
-CONFIG += static
 TEMPLATE = app
 
 QT += qml quick serialport printsupport
